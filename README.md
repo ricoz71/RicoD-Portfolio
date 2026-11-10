@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my projects, skills, and contact information.
 
-**Live site:** https://github.com/ricoz71/RicoD-Portfolio
+**Live site:** https://ricoz71.github.io/RicoD-Portfolio/
 
 ## About
 
